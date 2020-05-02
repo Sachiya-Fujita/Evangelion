@@ -1,15 +1,30 @@
 # Evangelion
-【概要】
+## 【概要】
 
 エヴァンゲリオンの全てを語る場所
 
-【見る順番】
+## ❗️NEW❗️【ピックアップ情報】
+#### おすすめのアプリ
+[EVA-EXTRA](https://apps.apple.com/jp/app/eva-extra/id1467872512)
+> 今なら新劇「序・破・Q」全てが無料！！
 
-1.公開順
-1.おすすめ順
-1.
+[ABEMA](https://abema.tv/)
+> 5/4から三夜連続EVA祭り！！
 
-【㊙️リンク集】
+## 【アニメーションの見る順番】
+
+1. 公開順
+1. おすすめ順
+
+#### 公開順
+旧劇 → 旧劇(シト新生) → 旧劇(Air/まごころを、君に) → (旧劇(Death(TRUE)2)) → 新劇(序) → 新劇(破) → 新劇(Q)
+
+#### おすすめ順
+新劇(序) → 新劇(破) → 新劇(Q) → 旧劇 → 旧劇(シト新生) → 旧劇(Air/まごころを、君に)
+
+> 新劇の方がアニメーションとして綺麗だし，わかりやすいのでおすすめ
+
+## 【㊙️リンク集】
 
 全部観れるけど危険かも？(めちゃくちゃ変なサイトに遷移するからPCで見ること推奨)
 
@@ -17,8 +32,11 @@
 
 《アニメ(=旧作アニメ)》
 
-https://9anime.to/watch/neon-genesis-evangelion-dub.yk0z/62l469
-https://anisong-station.jp/archives/7815
+- [9anime](https://9anime.to/watch/neon-genesis-evangelion-dub.yk0z/62l469)
+- [アニステ](https://anisong-station.jp/archives/7815)
+
+> 
+全２６話．
 
 《映画(=新作アニメ)》
 
@@ -35,10 +53,17 @@ https://anisong-station.jp/archives/7815
 →2020年6月27日公開予定
 
 《漫画》
+全14巻．
+無料サイトなかったのでAmazonのリンク
+[Amazon](https://www.amazon.co.jp/dp/B00UGJULP4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+(碇シンジ育成計画も意外と面白いので興味があれば→[Amazon](https://www.amazon.co.jp/dp/B01FVG06GU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1))
 
 《小説》
-
+- エヴァンゲリオン ANIMA①
+- エヴァンゲリオン ANIMA②
 
 《その他》
 
+## おすすめリンク集
+[これからエヴァンゲリオンを見る方に](https://matome.naver.jp/odai/2150794990399212301?page=2)
